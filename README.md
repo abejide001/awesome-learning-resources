@@ -148,6 +148,7 @@
 
 - [React for Beginners by Wes Bos](https://reactforbeginners.com/)
 - [Alligator.IO React Page](https://alligator.io/react/)
+- [React Front to Back by brad traversy](https://www.udemy.com/react-front-to-back/)
 
 ## NodeJS
 
